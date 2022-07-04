@@ -67,6 +67,9 @@ public class StudentController {
     @GetMapping("/getStudentCondition")
     public ResultResponse getStudentCondition(StudentQry studentQry) {
 
+        /**
+         * 条件查询
+         */
         return ResultResponse.ok();
     }
 }
