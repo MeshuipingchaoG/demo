@@ -71,6 +71,8 @@ public class StudentController {
          * 待完善
          * czw66666
          */
+
+        System.out.println("master test");
         return ResultResponse.ok();
     }
 }
