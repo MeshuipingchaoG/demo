@@ -73,6 +73,7 @@ public class StudentController {
          */
 
         System.out.println("master test");
+        System.out.println("hot-fix test");
         return ResultResponse.ok();
     }
 }
